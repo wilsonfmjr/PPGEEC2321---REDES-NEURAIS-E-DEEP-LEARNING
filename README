@@ -1,0 +1,7 @@
+echo "# PPGEEC2321---REDES-NEURAIS-E-DEEP-LEARNING" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wilsonfmjr/PPGEEC2321---REDES-NEURAIS-E-DEEP-LEARNING.git
+git push -u origin main
